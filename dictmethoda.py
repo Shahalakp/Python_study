@@ -1,0 +1,13 @@
+a={"name":"shahala","age":22,"class":"b.tech",100:"yes"}
+# res=a.items()
+# res=a.keys()
+# res=a.values()
+# a.pop(100)
+# a.popitem()
+# res=a.get("age")
+a.update({"age":23})
+a.update({"year":2023})
+print(a)
+a.clear()
+print(a)
+# print(res)
